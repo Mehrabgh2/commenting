@@ -1,16 +1,18 @@
 # commenting
 
-A new Flutter project.
+Wordpress auto commenting windows app
 
-## Getting Started
+## Picture
 
-This project is a starting point for a Flutter application.
+Add comment page
+![alt text](https://github.com/Mehrabgh2/commenting/blob/master/art/add.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Send comment page
+send comment to product with specify delay 
+![alt text](https://github.com/Mehrabgh2/commenting/blob/master/art/send.png?raw=true)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Comment history page
+history of sended comment with status 
+![alt text](https://github.com/Mehrabgh2/commenting/blob/master/art/history.png?raw=true)
